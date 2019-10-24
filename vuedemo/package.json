@@ -2,7 +2,7 @@
   "name": "vuedemo",
   "version": "1.0.0",
   "description": "vuedemo project",
-  "author": "共鼓 <xwisen.wz@antfin.com>",
+  "author": "xwisen <1031649164@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
